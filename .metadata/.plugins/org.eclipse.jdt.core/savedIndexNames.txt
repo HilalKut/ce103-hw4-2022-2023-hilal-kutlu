@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Ali\Desktop\ce103-hw4-2022-2023-ali-emre\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2216569144.index
+1647068471.index
+3833553467.index
